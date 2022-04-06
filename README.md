@@ -2,4 +2,4 @@
 Projeto de GitHub
 
 ## Links úteis
-[Sintaxe Markdown (.md)] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Markdown (.md)](https://www.markdownguide.org/basic-syntax/)
