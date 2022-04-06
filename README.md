@@ -1,2 +1,2 @@
-# DIO--GitHub
+# DIO-GitHub
 Projeto de GitHub
